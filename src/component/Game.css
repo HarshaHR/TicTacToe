@@ -1,0 +1,11 @@
+.endgame {
+    pointer-events: none;
+ }
+
+ td{
+     height: 70px !important;
+     width: 70px !important;
+     vertical-align: middle !important;
+     align-items: center !important;
+ }
+
